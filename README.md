@@ -49,5 +49,5 @@
 
 # External assets
 
-- Sprite assets from [mitxela](https://mitxela.com/projects/console/pacman)
-- Music from [SoundsResource](https://www.sounds-resource.com/)
+- Texture and sprite from [mitxela](https://mitxela.com/projects/console/pacman)
+- Audio from [SoundsResource](https://www.sounds-resource.com/)
